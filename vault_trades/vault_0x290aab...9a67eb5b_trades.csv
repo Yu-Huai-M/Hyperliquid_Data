@@ -1,3 +1,0 @@
-﻿币种,价格,数量,方向,时间戳,可读时间,起始仓位,交易方向,平仓收益,交易哈希,订单ID,是否交叉成交,手续费,交易ID,手续费代币,TWAP ID,金库地址,是否平仓,关联订单ID
-ETH,3958.4,0.2655,B,1734453579439,2024-12-18 00:39:39.439,0.0,Open Long,0.0,0x6ee5dcd15fcfdd8f487f041977deea0202d70058f189894b51dfd091935d869c,56059837801,True,0.367834,729182734486310,USDC,,0x290aabebe0afbc25ed55bc79e9ecd0aa9a67eb5b,,
-ETH,3617.2,0.2655,A,1734565817029,2024-12-19 07:50:17.029,0.2655,Close Long,-90.5886,0xca2289029c03d34476b80419928b480000abb91d899a4a3d0b168c3f573ad28e,56431837873,True,0.336128,18312396500047,USDC,,0x290aabebe0afbc25ed55bc79e9ecd0aa9a67eb5b,"{'liquidatedUser': '0x290aabebe0afbc25ed55bc79e9ecd0aa9a67eb5b', 'markPx': '3619.2', 'method': 'market'}",
